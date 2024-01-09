@@ -1,14 +1,6 @@
-[How to run this project]
+This is a university group project for the project management module to create a cafe management system
+using BCE model and applying the various project management principles.
 
-In the terminal, navigate to this project directory and run:
-
-npm install		(This will install all packages and node_modules)
-
-npm start		(This will run the application in localhost
-
-Open http://localhost:3000 to view it in your browser.
-
-
-Frontend codes can be found in src/components
-
-Backend codes are in the src/Controller and src/Entity
+Frontend: React
+Backend: Java
+Database: MySQL
